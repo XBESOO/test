@@ -1,0 +1,57 @@
+body{margin: 0; 
+    font-family: "Times New Roman", Georgia, Serif}
+
+.LeCatering{  background-image: url(hamburger.jpg);  
+                background-repeat: no-repeat; 
+                background-size: cover;
+                height: 100%;}
+
+.le{padding-left: 58px;
+    padding-top: 711px; 
+    letter-spacing: 5px;opacity: 0.60;}
+
+
+.div1{padding-left: 77px; margin: 113px;}
+
+.img1{ width: 38%; 
+        float: left;}
+
+.pdiv1{ width: 40%;
+        float: left;
+        padding: 2px 55px;}
+
+
+
+.div2{ clear: both;
+        max-width: 100%; 
+        padding: 37px 0;}
+
+.pdiv2{ width: 23%;
+        float: left;
+        padding: 65px 179px;}
+
+.ppdiv2{ color: #757575; width: 149%;}
+.Our{ text-align: center;}
+
+.Bread{ color: black;
+        letter-spacing: 4px; 
+        font-size: x-large;}
+
+.divimg2{ float: left;
+        width: 25%; 
+        padding: 86px 14px}
+
+.img2{width: 124%;}
+
+
+
+
+
+
+.div3{ clear: both;}
+.Contact{padding-left: 184px;}
+.Catering{color:#607d8b;}
+
+.input{ width: 81%; padding: 10px; border: outset;}
+
+.hr{ border-top:1px solid #eee; margin: 21px 104px; width: 86%;}
